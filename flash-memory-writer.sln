@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "flash-memory-writer (Package)", "flash-memory-writer (Package)\flash-memory-writer (Package).wapproj", "{F33D0D20-A849-48EA-B956-E4D585F84A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flash-memory-writer", "flash-memory-writer\flash-memory-writer.csproj", "{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|ARM64.Build.0 = Debug|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x64.ActiveCfg = Debug|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x64.Build.0 = Debug|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x64.Deploy.0 = Debug|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x86.ActiveCfg = Debug|x86
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x86.Build.0 = Debug|x86
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Debug|x86.Deploy.0 = Debug|x86
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|ARM64.ActiveCfg = Release|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|ARM64.Build.0 = Release|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|ARM64.Deploy.0 = Release|ARM64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x64.ActiveCfg = Release|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x64.Build.0 = Release|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x64.Deploy.0 = Release|x64
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x86.ActiveCfg = Release|x86
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x86.Build.0 = Release|x86
+		{F33D0D20-A849-48EA-B956-E4D585F84A67}.Release|x86.Deploy.0 = Release|x86
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|ARM64.Build.0 = Debug|ARM64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|x64.ActiveCfg = Debug|x64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|x64.Build.0 = Debug|x64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|x86.ActiveCfg = Debug|x86
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Debug|x86.Build.0 = Debug|x86
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|ARM64.ActiveCfg = Release|ARM64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|ARM64.Build.0 = Release|ARM64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|x64.ActiveCfg = Release|x64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|x64.Build.0 = Release|x64
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|x86.ActiveCfg = Release|x86
+		{4C0D5521-A939-4C2A-A9D9-FEBA2178737A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B694256E-18A6-46DB-A526-60C7BBA776CD}
+	EndGlobalSection
+EndGlobal
